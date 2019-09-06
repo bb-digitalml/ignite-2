@@ -1,3 +1,16 @@
+.card-text,
+.card-title {
+  color: black !important;
+}
+
+
+.row {
+  margin-bottom: 20px;
+}
+
+
+/* ---- */
+
 .App {
   text-align: center;
 }
